@@ -6,6 +6,7 @@ Minimal Vue 3 example using [`@qodalis/vue-cli`](https://www.npmjs.com/package/@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/qodalis-solutions/qodalis-cli-vue-example)
 [![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/qodalis-solutions/qodalis-cli-vue-example)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/qodalis-solutions/qodalis-cli-vue-example)
 
 ## Quick Start
 
