@@ -28,7 +28,7 @@ const options: CliOptions = {};
         <Cli :style="{ width: '100%', height: '100%' }" />
       </div>
     </div>
-    <CliPanel />
+    <CliPanel :options="{ position: 'right', isHidden: true }" />
   </CliConfigProvider>
 </template>
 
