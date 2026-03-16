@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { Cli, CliConfigProvider } from '@qodalis/vue-cli';
+import { Cli, CliConfigProvider, CliPanel } from '@qodalis/vue-cli';
+import '@qodalis/cli/assets/cli-panel.css';
 import { guidModule } from '@qodalis/cli-guid';
 import { filesModule } from '@qodalis/cli-files';
 import { usersModule } from '@qodalis/cli-users';
@@ -27,6 +28,7 @@ const options: CliOptions = {};
         <Cli :style="{ width: '100%', height: '100%' }" />
       </div>
     </div>
+    <CliPanel />
   </CliConfigProvider>
 </template>
 
