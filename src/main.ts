@@ -1,5 +1,5 @@
 import { createApp } from 'vue';
-import '@xterm/xterm/css/xterm.css';
+import '@qodalis/vue-cli/styles.css';
 import './style.css';
 import App from './App.vue';
 
